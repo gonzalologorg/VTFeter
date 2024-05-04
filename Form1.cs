@@ -20,7 +20,7 @@ namespace VTFeter
                 MessageBox.Show("VTFLib has not been found, downloading...");
                 using (var client = new WebClient())
                 {
-                    client.DownloadFile("https://sharex.imgonzo.dev/f/RFINNBDQ.zip", Application.StartupPath + "/VTFLib.zip");
+                    client.DownloadFile("https://github.com/gonzalologorg/VTFeter/raw/main/Bundle/VTFLib.zip", Application.StartupPath + "/VTFLib.zip");
                     MessageBox.Show("VTFCmd has been downloaded!");
                     System.IO.Compression.ZipFile.ExtractToDirectory(Application.StartupPath + "/VTFLib.zip", Application.StartupPath);
                 }
