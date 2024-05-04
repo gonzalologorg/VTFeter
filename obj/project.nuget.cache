@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ZQC1jbORkm0/EuqyJWyNOlPRaWOSa8dh6trXKoe2Od6LMJSF5kz8vgKJZcltmEn+x94uugb4tmN6hFcX3aK+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gonzo\\source\\repos\\VTFeter\\VTFeter\\VTFeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gonzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gonzo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gonzo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Gonzo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
